@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Apple Watch Series 7",
+      "price": 399.00
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Watch 4",
+      "price": 249.99
+    },
+    {
+      "id": 3,
+      "name": "Fitbit Versa 3",
+      "price": 229.95
+    },
+    {
+      "id": 4,
+      "name": "Garmin Forerunner 945",
+      "price": 599.99
+    },
+    {
+      "id": 5,
+      "name": "Huawei Watch GT 2 Pro",
+      "price": 299.99
+    }
+  ]
+  
